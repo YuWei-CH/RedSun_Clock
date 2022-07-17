@@ -380,7 +380,7 @@
       "idf": "",
       "netlist": "../../../../../../Applications/KiCad/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "YWS_clock.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
