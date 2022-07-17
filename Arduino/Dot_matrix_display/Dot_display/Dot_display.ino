@@ -2,9 +2,9 @@
 //MAX7219 - using Led Control library to display all leds one by one
 #include <LedControl.h>
 
-int DIN = 11;
-int CS = 10;
-int CLK = 13;
+int DIN = 10;
+int CS =8;
+int CLK = 9;
 
 LedControl lc=LedControl(DIN, CLK, CS,0);
 
@@ -34,12 +34,12 @@ display_1();
 void display_1(){
   for (int i = 0; i < 8; ++i){
   lc.setLed(0,i,3,true);
-  lc.setLed(0,i,4,true);
+  lc.setLed(0,i,12,true);
 }
 delay (1000);
  for (int i = 0; i < 8; ++i){
   lc.setLed(0,i,3,false);
-  lc.setLed(0,i,4,false);
+  lc.setLed(0,i,12,false);
 }
 delay (500);
 }

@@ -1,4 +1,4 @@
-92663238803473
+92663822310068
 footprints
 Adafruit-1001-0-0-MFG
 White 7-segment clock display
@@ -257,7 +257,7 @@ Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with c
 rotary encoder
 0
 7
-6
+5
 footprints
 SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
