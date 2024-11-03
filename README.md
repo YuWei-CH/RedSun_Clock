@@ -1,5 +1,5 @@
-# Yuwei_Clock
-Yuwei_Clock is a PCB-based clock that I designed and developed independently. The project was guided by Mr.Ethan and Mr.Matthew during the Google Hardware Product Sprint (HPS2022 Summer).  
+# RedSun_Clock
+RedSun_Clock is a PCB-based clock that I designed and developed independently. The project was guided by Mr.Ethan and Mr.Matthew during the Google Hardware Product Sprint (HPS2022 Summer). 
 
 This project consists of two main parts: Hardware and Software.
 
