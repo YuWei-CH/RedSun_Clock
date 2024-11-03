@@ -17,3 +17,4 @@ The software part is composed of code written in Arduino, which drives the opera
 ## How to compile the code
 You can use the Arduino compiler to compile this code.
 
+![alt text](Picture/2201660870061_.pic.jpg)
